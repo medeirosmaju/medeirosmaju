@@ -6,7 +6,7 @@ Meu nome e Maria Julia
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-  ### Você entrar nem contato comigo 📫
+  ### Você entrar em contato comigo 📫
 
   maria.medeiros.silva20@escola.pr.gov.br
   
