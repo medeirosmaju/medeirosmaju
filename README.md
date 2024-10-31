@@ -10,6 +10,6 @@ Meu nome e Maria Julia
 
   maria.medeiros.silva20@escola.pr.gov.br
   
-  @maju20009
+  @medeiiros_maaju
 
 ![]( https://media.tenor.com/jX5p5jtPav4AAAAj/hello-joy.gif)
